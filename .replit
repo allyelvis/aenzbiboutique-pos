@@ -1,4 +1,4 @@
-modules = ["nodejs-18"]
+modules = ["bash", "gcloud", "nodejs-18", "vue-node-18"]
 run = "npm start"
 [nix]
 channel = "stable-24_05"

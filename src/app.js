@@ -1,4 +1,9 @@
 const express = require('express');
+ 
+const path = require('path');
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'ejs');
+
 const bodyParser = require('body-parser');
 const app = express();
 const port = process.env.PORT || 3000;

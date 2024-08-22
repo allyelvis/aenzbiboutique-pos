@@ -10,8 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.4.5",
@@ -19,5 +19,12 @@
     "express": "^4.19.2",
     "mongoose": "^8.5.3"
   },
-  "devDependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allyelvis/aenzbiboutique-pos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/allyelvis/aenzbiboutique-pos/issues"
+  },
+  "homepage": "https://github.com/allyelvis/aenzbiboutique-pos#readme"
 }
