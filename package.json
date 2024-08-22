@@ -1,0 +1,22 @@
+{
+  "name": "aenzbiboutique-pos",
+  "version": "1.0.0",
+  "description": "This POS system is designed to manage a boutique, store, and retail shop, handling inventory, sales, customer management, order management, employee management, accounting, and multi-store management.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3"
+  }
+}
