@@ -28,7 +28,7 @@
     "js-tokens": "^9.0.0",
     "mime-types": "^2.1.35",
     "minimatch": "^10.0.1",
-    "mongoose": "^8.9.5",
+    "mongoose": "^8.13.1",
     "react": "^18.3.1",
     "set-function-length": "^1.2.2",
     "tslib": "^2.6.3",
