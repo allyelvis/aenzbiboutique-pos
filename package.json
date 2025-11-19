@@ -24,7 +24,7 @@
     "esquery": "^1.6.0",
     "express": "^4.21.2",
     "get-intrinsic": "^1.2.4",
-    "glob": "^11.0.0",
+    "glob": "^11.1.0",
     "js-tokens": "^9.0.0",
     "mime-types": "^2.1.35",
     "minimatch": "^10.0.1",
