@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "@babel/parser": "^7.26.5",
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.4",
     "define-data-property": "^1.1.4",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
@@ -22,7 +22,7 @@
     "eslint": "^9.9.0",
     "espree": "^10.1.0",
     "esquery": "^1.6.0",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "get-intrinsic": "^1.2.4",
     "glob": "^11.0.0",
     "js-tokens": "^9.0.0",
